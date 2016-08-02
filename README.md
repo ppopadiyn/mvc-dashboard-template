@@ -1,5 +1,5 @@
-# ASP.NET MVC Dashboard Template
-Startup template for dashboard type of web applications in ASP.NET MVC.
+# ASP.NET Core/MVC 5 Dashboard Template
+Startup template for dashboard type of web applications.
 
 Includes startup templates for:
 - ASP.NET Core
