@@ -1,0 +1,73 @@
+﻿body.dashboard .huge {
+  font-size: 24px;
+}
+body.dashboard .panel-info {
+  border-color: #5bc0de;
+}
+body.dashboard .panel-info .panel-heading {
+  border-color: #5bc0de;
+  color: white;
+  background-color: #5bc0de;
+}
+body.dashboard .panel-info a {
+  color: #5bc0de;
+}
+body.dashboard .panel-info a:hover {
+  color: #28a1c5;
+}
+body.dashboard .panel-primary {
+  border-color: #337ab7;
+}
+body.dashboard .panel-primary .panel-heading {
+  border-color: #337ab7;
+  color: white;
+  background-color: #337ab7;
+}
+body.dashboard .panel-primary a {
+  color: #337ab7;
+}
+body.dashboard .panel-primary a:hover {
+  color: #22527b;
+}
+body.dashboard .panel-green {
+  border-color: #5cb85c;
+}
+body.dashboard .panel-green .panel-heading {
+  border-color: #5cb85c;
+  color: white;
+  background-color: #5cb85c;
+}
+body.dashboard .panel-green a {
+  color: #5cb85c;
+}
+body.dashboard .panel-green a:hover {
+  color: #3d8b3d;
+}
+body.dashboard .panel-red {
+  border-color: #d9534f;
+}
+body.dashboard .panel-red .panel-heading {
+  border-color: #d9534f;
+  color: white;
+  background-color: #d9534f;
+}
+body.dashboard .panel-red a {
+  color: #d9534f;
+}
+body.dashboard .panel-red a:hover {
+  color: #b52b27;
+}
+body.dashboard .panel-yellow {
+  border-color: #f0ad4e;
+}
+body.dashboard .panel-yellow .panel-heading {
+  border-color: #f0ad4e;
+  color: white;
+  background-color: #f0ad4e;
+}
+body.dashboard .panel-yellow a {
+  color: #f0ad4e;
+}
+body.dashboard .panel-yellow a:hover {
+  color: #df8a13;
+}

@@ -59,8 +59,8 @@ namespace Dashboard.Core
             {
                 AuthenticationScheme = CookieAuthenticationDefaults.AuthenticationScheme,
                 ExpireTimeSpan = TimeSpan.FromHours(1),
-                LoginPath = new PathString("/Account/Login"),
-                AccessDeniedPath = new PathString("/Account/Login"),
+                LoginPath = new PathString($"/{ControllerNames.Account}/{ActionNames.LogIn}"),
+                AccessDeniedPath = new PathString($"/{ControllerNames.Account}/{ActionNames.LogIn}"),
                 AutomaticAuthenticate = true,
                 AutomaticChallenge = true
             });
