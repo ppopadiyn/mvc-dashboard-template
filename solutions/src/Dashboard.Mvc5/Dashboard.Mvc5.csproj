@@ -188,22 +188,11 @@
     <Content Include="Content\site\loader.css" />
     <Content Include="Content\site\main.css" />
     <Content Include="favicon.ico" />
-    <Content Include="fonts\fontawesome-webfont.svg" />
-    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\bootstrap.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <Content Include="fonts\FontAwesome.otf" />
-    <Content Include="fonts\fontawesome-webfont.woff2" />
-    <Content Include="fonts\fontawesome-webfont.woff" />
-    <Content Include="fonts\fontawesome-webfont.ttf" />
-    <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="Content\site\account.css" />
     <Content Include="Content\site\dashboard.css" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -241,6 +230,7 @@
     <Content Include="Views\Shared\Components\_ScriptsFooter.cshtml" />
     <Content Include="Views\Shared\Components\_StylesHeader.cshtml" />
     <Content Include="Views\Shared\Components\_ScriptsHeader.cshtml" />
+    <Content Include="Views\Home\_Panel.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
