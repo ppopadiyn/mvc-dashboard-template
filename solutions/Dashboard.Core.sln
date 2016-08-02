@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Dashboard.Core", "Dashboard.Core\Dashboard.Core.xproj", "{EE3029BF-B736-4A80-BFF6-2579355B3F25}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E2F296D-6B13-41B8-9B22-3F83951695A6}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{668D4E8C-781A-4C68-BBEB-488080987689}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Dashboard.Core", "src\Dashboard.Core\Dashboard.Core.xproj", "{EE3029BF-B736-4A80-BFF6-2579355B3F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +25,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE3029BF-B736-4A80-BFF6-2579355B3F25} = {668D4E8C-781A-4C68-BBEB-488080987689}
 	EndGlobalSection
 EndGlobal
