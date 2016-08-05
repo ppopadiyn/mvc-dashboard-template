@@ -2,7 +2,6 @@
 
 namespace Demo.Mvc5.Controllers
 {
-    [Authorize]
     public class HomeController : Controller
     {
         public ActionResult Index()

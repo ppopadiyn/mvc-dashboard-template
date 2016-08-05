@@ -55,16 +55,6 @@ namespace Demo.Core
 
             app.UseStaticFiles();
 
-            app.UseCookieAuthentication(new CookieAuthenticationOptions
-            {
-                AuthenticationScheme = CookieAuthenticationDefaults.AuthenticationScheme,
-                ExpireTimeSpan = TimeSpan.FromHours(1),
-                LoginPath = new PathString($"/{ControllerNames.Account}/{ActionNames.LogIn}"),
-                AccessDeniedPath = new PathString($"/{ControllerNames.Account}/{ActionNames.LogIn}"),
-                AutomaticAuthenticate = true,
-                AutomaticChallenge = true
-            });
-
             // Add external authentication middleware below. To configure them please see http://go.microsoft.com/fwlink/?LinkID=532715
 
             app.UseMvc(routes =>
