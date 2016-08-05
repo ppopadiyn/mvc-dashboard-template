@@ -5,7 +5,6 @@
         public const string Index = "Index";
         public const string LogOff = "LogOff";
         public const string LogIn = "LogIn";
-        public const string Get = "Get";
     }
 
     public static class ControllerNames
