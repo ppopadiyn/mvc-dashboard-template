@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Linq;
 
-namespace Dashboard.Core
+namespace Demo.Core
 {
     public static class HtmlHelpers
     {

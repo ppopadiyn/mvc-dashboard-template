@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Http;
 
-namespace Dashboard.Core
+namespace Demo.Core
 {
     public class Startup
     {

@@ -1,73 +1,73 @@
-﻿body.dashboard .huge {
+﻿body.home .huge {
   font-size: 24px;
 }
-body.dashboard .panel-info {
+body.home .panel-info {
   border-color: #5bc0de;
 }
-body.dashboard .panel-info .panel-heading {
+body.home .panel-info .panel-heading {
   border-color: #5bc0de;
   color: white;
   background-color: #5bc0de;
 }
-body.dashboard .panel-info a {
+body.home .panel-info a {
   color: #5bc0de;
 }
-body.dashboard .panel-info a:hover {
+body.home .panel-info a:hover {
   color: #28a1c5;
 }
-body.dashboard .panel-primary {
+body.home .panel-primary {
   border-color: #337ab7;
 }
-body.dashboard .panel-primary .panel-heading {
+body.home .panel-primary .panel-heading {
   border-color: #337ab7;
   color: white;
   background-color: #337ab7;
 }
-body.dashboard .panel-primary a {
+body.home .panel-primary a {
   color: #337ab7;
 }
-body.dashboard .panel-primary a:hover {
+body.home .panel-primary a:hover {
   color: #22527b;
 }
-body.dashboard .panel-green {
+body.home .panel-green {
   border-color: #5cb85c;
 }
-body.dashboard .panel-green .panel-heading {
+body.home .panel-green .panel-heading {
   border-color: #5cb85c;
   color: white;
   background-color: #5cb85c;
 }
-body.dashboard .panel-green a {
+body.home .panel-green a {
   color: #5cb85c;
 }
-body.dashboard .panel-green a:hover {
+body.home .panel-green a:hover {
   color: #3d8b3d;
 }
-body.dashboard .panel-red {
+body.home .panel-red {
   border-color: #d9534f;
 }
-body.dashboard .panel-red .panel-heading {
+body.home .panel-red .panel-heading {
   border-color: #d9534f;
   color: white;
   background-color: #d9534f;
 }
-body.dashboard .panel-red a {
+body.home .panel-red a {
   color: #d9534f;
 }
-body.dashboard .panel-red a:hover {
+body.home .panel-red a:hover {
   color: #b52b27;
 }
-body.dashboard .panel-yellow {
+body.home .panel-yellow {
   border-color: #f0ad4e;
 }
-body.dashboard .panel-yellow .panel-heading {
+body.home .panel-yellow .panel-heading {
   border-color: #f0ad4e;
   color: white;
   background-color: #f0ad4e;
 }
-body.dashboard .panel-yellow a {
+body.home .panel-yellow a {
   color: #f0ad4e;
 }
-body.dashboard .panel-yellow a:hover {
+body.home .panel-yellow a:hover {
   color: #df8a13;
 }

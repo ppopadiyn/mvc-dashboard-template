@@ -1,7 +1,6 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
-namespace Dashboard.Mvc5
+namespace Demo.Mvc5
 {
     public class BundleConfig
     {

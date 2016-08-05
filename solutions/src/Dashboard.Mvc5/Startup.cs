@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(Dashboard.Mvc5.Startup))]
-namespace Dashboard.Mvc5
+[assembly: OwinStartupAttribute(typeof(Demo.Mvc5.Startup))]
+namespace Demo.Mvc5
 {
     public partial class Startup
     {

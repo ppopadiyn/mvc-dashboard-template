@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using Microsoft.Owin.Security;
 
-namespace Dashboard.Mvc5.Controllers
+namespace Demo.Mvc5.Controllers
 {
     public class AccountController : Controller
     {

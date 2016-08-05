@@ -3,7 +3,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-namespace Dashboard.Mvc5
+namespace Demo.Mvc5
 {
     public partial class Startup
     {

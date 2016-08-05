@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashboard.Mvc5", "src\Dashboard.Mvc5\Dashboard.Mvc5.csproj", "{AC9CF994-691D-45B8-990A-A9B8C2A11D3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Mvc5", "src\Dashboard.Mvc5\Demo.Mvc5.csproj", "{AC9CF994-691D-45B8-990A-A9B8C2A11D3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

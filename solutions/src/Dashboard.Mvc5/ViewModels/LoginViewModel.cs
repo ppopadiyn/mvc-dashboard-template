@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Dashboard.Mvc5
+namespace Demo.Mvc5
 {
     public class LoginViewModel
     {

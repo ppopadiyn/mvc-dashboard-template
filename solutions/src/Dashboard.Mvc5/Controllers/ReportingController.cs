@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Dashboard.Mvc5.Controllers
+namespace Demo.Mvc5.Controllers
 {
     [Authorize]
     public class ReportingController : Controller

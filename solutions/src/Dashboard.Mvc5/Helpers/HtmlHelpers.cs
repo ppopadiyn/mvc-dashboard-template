@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
 
-namespace Dashboard.Mvc5
+namespace Demo.Mvc5
 {
     public static class HtmlHelpers
     {

@@ -1,4 +1,4 @@
-﻿namespace Dashboard.Core
+﻿namespace Demo.Core
 {
     public static class ActionNames
     {

@@ -8,7 +8,7 @@
     @Html.Partial("Components/_ScriptsHeader")
 
 </head>
-<body>
+<body class="@(ViewContext.RouteData.Values["controller"].ToString().ToLower())">
     @Html.Partial("Components/_Loader")
     <div id="wrapper">
         <!-- Navigation -->

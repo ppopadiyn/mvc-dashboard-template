@@ -1,4 +1,4 @@
-﻿namespace Dashboard.Mvc5
+﻿namespace Demo.Mvc5
 {
     public static class ActionNames
     {

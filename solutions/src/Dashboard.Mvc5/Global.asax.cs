@@ -2,7 +2,7 @@
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace Dashboard.Mvc5
+namespace Demo.Mvc5
 {
     public class MvcApplication : System.Web.HttpApplication
     {
